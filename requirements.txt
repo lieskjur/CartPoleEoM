@@ -1,1 +1,1 @@
-lagrangian2eom @ git+https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/CVUT-FS-12110/lagrangian2eom
+lagrangian2eom @ git+https://github.com/lieskjur/lagrangian2eom
