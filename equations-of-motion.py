@@ -50,6 +50,8 @@ c = velocityTerms(kin, q, t)
 tau_p = potentialTerms(pot, q)
 
 # Printout
+print("T &=", latex(simplify(kin)), "\\\\")
+print("V &=", latex(simplify(pot)))
 print("M &=", latex(simplify(M)), "\\\\")
 print("c &=", latex(simplify(c)), "\\\\")
 print("\\tau_p &=", latex(simplify(tau_p)))
